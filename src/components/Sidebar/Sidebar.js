@@ -4,7 +4,7 @@ import facebook from '../../assets/icons/facebook.svg';
 import github from '../../assets/icons/github.svg';
 import pin from '../../assets/icons/pin.svg';
 import tie from '../../assets/icons/tie.svg';
-import cv from '../../assets/CV.pdf';
+import resume from '../../assets/Resume of Najmul.pdf';
 import { motion } from 'framer-motion';
 
 
@@ -34,7 +34,7 @@ const Sidebar = () => {
             <img src={najmul} alt="najmul" className="sidebar_img "/>
             <div className="sidebar_name">Md. Najmul <span>Hossain</span></div>
             <div className="sidebar_item sidebar_title">Web Developer</div>
-            <a href={cv} download="CV">
+            <a href={resume} download="Resume of Najmul">
                 <div className="sidebar_item">
                     <img src={tie} alt="resume" className="sidebar_icon"/>
                     Download Resume 
