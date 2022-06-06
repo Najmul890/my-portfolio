@@ -56,7 +56,7 @@ const About = () => {
         //   exit= 'exit'
         >
             <h6 className="about_intro">
-                I am currently studying BSC in Textile Engineering (4th Year). I am a front-end Web Developer. I consider myself who is persistent, a quick learner and loves to go deep into project. 
+                I am a front-end Web Developer. I consider myself who is persistent, a quick learner and loves to go deep into project. 
             </h6>
             <div className="container about_container">
                 <h6 className="about_heading">

@@ -309,13 +309,9 @@ a:hover{
   .app_main-content{
     margin-right: 10px;
     margin-left: 10px;
-    height: 90vh;
+    min-height: 125vh;
   }
-  .projects{
-    height: 80vh;
-    
-    
-  }
+   
   .navbar{
     font-size: 1.5rem;
   }

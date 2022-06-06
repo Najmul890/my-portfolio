@@ -50,7 +50,7 @@ const Sidebar = () => {
                     Dhaka, Bangladesh
                 </div>
                 <div className="sidebar_item">
-                    najmul890890@gmail.com
+                    najmul890089@gmail.com
                 </div>
                 <div className="sidebar_item">
                     01858363204

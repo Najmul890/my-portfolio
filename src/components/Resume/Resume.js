@@ -108,7 +108,7 @@ const Resume = () => {
                     </h4>
                     <div className="resume-card_body">
                         <h5 className="resume-card_title">
-                          Programming Hero Web Development Course By <span style={{color:'#00F260'}} >Jhankar Mahbub </span> <span className="resume-card_year">(2020)</span>
+                          Programming Hero Web Development Course By <span style={{color:'#00F260'}} >Jhankar Mahbub </span> <span className="resume-card_year">(2022)</span>
                         </h5>
                         
                         
